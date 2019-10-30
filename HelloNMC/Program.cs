@@ -10,7 +10,7 @@ namespace HelloNMC
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello NMC");
+            Console.WriteLine("Hello NMC!");
             Console.WriteLine();
             Console.WriteLine("Press any key to continue.");
             Console.ReadKey();
